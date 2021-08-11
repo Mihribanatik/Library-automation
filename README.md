@@ -1,1 +1,1 @@
-# kutuphaneotomasyonu
+c# ile kütüphane otomasyonu
